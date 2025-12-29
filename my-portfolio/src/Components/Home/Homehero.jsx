@@ -2,14 +2,14 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-scroll';
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { FiSend, FiDownload, FiTerminal } from "react-icons/fi";
-import mee from '../../Assets/customer.jpg';
+import mee from '../../Assets/nav.jpeg';
 import './Animation.css';
 
 const roles = [
   "MERN Enthusiast",
   "Full Stack Developer",
   "Web Architect",
-  "React Specialist"
+  "React Developer"
 ];
 
 export const Homehero = () => {

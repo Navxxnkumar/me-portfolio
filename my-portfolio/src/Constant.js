@@ -27,7 +27,7 @@ export const projects = [
         title: "Personal-Portfolio",
         description:
             `I built a modern, galaxy-themed web application to showcase my skills as a Full-Stack Developer. I used React for building the UI and Vite for a fast development environment. For the design, I utilized Tailwind CSS to create a 'Premium Galaxy' aesthetic with smooth animations that look great on both desktop and mobile. I also integrated Formspree to handle client messages without needing a dedicated backend server`,
-        image: "/freshPicks",
+        image: "/portfolio.png",
         tags: [
             "React",
             "Vite js",
@@ -35,8 +35,8 @@ export const projects = [
             "Animation CSS",
             "Fully Mobile-friendly"
         ],
-        github: "https://github.com/MohammadZakariya786/Car-Rental",
-        webapp: "https://car-rental-omega-ruby.vercel.app/"
+        github: "https://github.com/Navxxnkumar/me-portfolio.git",
+        webapp: "https://me-portfolio-brown.vercel.app/"
     },
     {
         id: 3,
@@ -44,7 +44,7 @@ export const projects = [
         description:
             `A MERN stack web application with a fully responsive and smooth UI, built using React.js for the frontend and Node.js, Express.js, and MongoDB for the backend.
             Features modern animations, sliders, OTP-based login UI, and clean navigation, with REST API integration using Axios, showcasing a complete frontend → backend → database flow, strong UI/UX focus, scalable component-based architecture, and real-time data handling with efficient state management.`,
-        image: "freshPicks",
+        image: "/freshpicks.png",
         tags: [
             "React",
             "Animation CSS",
