@@ -1,6 +1,6 @@
-import bussiness from "./Assets/Business.png";
-import netfix from "./Assets/Netfix.png";
-import freshpicks from "./Assets/FreshPicks.png";
+import bussiness from "./Assets/business.png";
+import netfix from "./Assets/netfix.png";
+import freshpicks from "./Assets/freshPicks.png";
 
 export const projects = [
 

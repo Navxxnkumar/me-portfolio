@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-scroll';
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { FiSend, FiDownload, FiTerminal } from "react-icons/fi";
-import mee from '../../assets/customer.jpg';
+import mee from '../../Assets/customer.jpg';
 import './Animation.css';
 
 const roles = [
