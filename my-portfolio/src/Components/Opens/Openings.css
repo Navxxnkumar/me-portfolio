@@ -1,0 +1,43 @@
+/* --- Animation Keyframes --- */
+@keyframes fade-up {
+    0% {
+        opacity: 0;
+        transform: translateY(30px) scale(0.98);
+        filter: blur(10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+        filter: blur(0);
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.animate-fade-up {
+    animation: fade-up 1.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in {
+    animation: fade-in 2s ease-out forwards;
+}
+
+/* Button Cubic Bezier for Rocket Launch */
+.cubic-bezier {
+    transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Glass Label Hover Effect */
+.group:hover .tracking-tighter {
+    letter-spacing: -0.05em;
+    transition: all 0.5s ease;
+}
