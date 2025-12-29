@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-scroll';
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { FiSend, FiDownload, FiTerminal } from "react-icons/fi";
-import nav from '../../assets/Naveenkumar_S.pdf';
+import nav from '../../assets/naveenkumar_s.pdf';
 import mee from '../../assets/customer.jpg';
 import './Animation.css';
 
