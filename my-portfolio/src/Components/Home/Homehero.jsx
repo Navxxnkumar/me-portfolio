@@ -144,7 +144,7 @@ export const Homehero = () => {
 
           <div className="reveal-hidden delay-4 flex flex-col sm:flex-row gap-5 justify-center md:justify-start pt-2">
             <a
-              href="/naveenkumar_s.pdf"
+              href="/naveenkumar.pdf"
               target="_blank"
               rel="noreferrer"
               className="group relative flex items-center justify-center gap-3 px-8 py-4 bg-white text-black font-bold rounded-2xl overflow-hidden transition-all active:scale-95 shadow-[0_0_20px_rgba(255,255,255,0.2)]"
